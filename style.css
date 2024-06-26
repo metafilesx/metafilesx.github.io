@@ -4,59 +4,53 @@ body {
 header {
 	width: 90%;
 	margin: auto;
-	background-color: #fff;
-	border: 1px solid red;
+	background-color: white;
 }
 nav {
 	width: 90%;
 	margin: auto;
-	background-color: black;
-	display: block;
-	border: 1px solid red;
 }
 nav ul {
 	list-style: none;
+	width: 90%;
 }
-
 nav ul li {
 	display: inline;
 	float: left;
+	width: 30%;
 	padding: 5px;
-	background-color: black;
 }
 nav ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
-	color: white;
 }
 section {
 	width: 90%;
 	margin: auto;
-	background-color: #fff;
-	display: block;
+	background-color: white;
 }
 section main {
+	display: inline;
+	float: left;
 	width: 60%;
-	display: inline;
-	float: left;
-	margin: 5px;
 	padding: 5px;
-	background-color: #fff;
-	border: 1px solid red;
 }
-section aside{
-	width: 35%;
+h3 {
+	text-align: center;
+}
+p {
+	text-align: justify;
+}
+section aside {
 	display: inline;
 	float: left;
-	margin: 5px;
+	width: 35%;
 	padding: 5px;
-	background-color: #fff;
-	border: 1px solid red;
 }
 footer {
+
 	clear: both;
 	width: 90%;
-	margin: auto;
-	background-color: #fff;
-	border: 1px solid red;
+	margin: 5px auto;
+	background-color: white;
 }
