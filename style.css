@@ -5,12 +5,14 @@ header {
 	width: 90%;
 	margin: auto;
 	background-color: #fff;
+	border: 1px solid red;
 }
 nav {
 	width: 90%;
 	margin: auto;
 	background-color: black;
 	display: block;
+	border: 1px solid red;
 }
 nav ul {
 	list-style: none;
@@ -40,6 +42,7 @@ section main {
 	margin: 5px;
 	padding: 5px;
 	background-color: #fff;
+	border: 1px solid red;
 }
 section aside{
 	width: 35%;
@@ -48,10 +51,12 @@ section aside{
 	margin: 5px;
 	padding: 5px;
 	background-color: #fff;
+	border: 1px solid red;
 }
 footer {
 	clear: both;
 	width: 90%;
 	margin: auto;
 	background-color: #fff;
+	border: 1px solid red;
 }
