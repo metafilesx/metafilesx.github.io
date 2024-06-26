@@ -1,0 +1,57 @@
+body {
+	background-color: #ddd;
+}
+header {
+	width: 90%;
+	margin: auto;
+	background-color: #fff;
+}
+nav {
+	width: 90%;
+	margin: auto;
+	background-color: black;
+	display: block;
+}
+nav ul {
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+	float: left;
+	padding: 5px;
+	background-color: black;
+}
+nav ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	color: white;
+}
+section {
+	width: 90%;
+	margin: auto;
+	background-color: #fff;
+	display: block;
+}
+section main {
+	width: 60%;
+	display: inline;
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	background-color: #fff;
+}
+section aside{
+	width: 35%;
+	display: inline;
+	float: left;
+	margin: 5px;
+	padding: 5px;
+	background-color: #fff;
+}
+footer {
+	clear: both;
+	width: 90%;
+	margin: auto;
+	background-color: #fff;
+}
