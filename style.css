@@ -60,6 +60,19 @@ section aside {
 	width: 35%;
 	padding: 5px;
 }
+section aside ul {
+	list-style: none;
+	
+}
+section aside ul li {
+	padding: 5px;
+}
+section aside ul li a {
+	text-decoration: none;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
+}
 footer {
 
 	clear: both;
