@@ -13,9 +13,11 @@ header h1 {
 header p {
 	font-style: italic;
 	text-align: center;
+}
 nav {
 	width: 90%;
 	margin: auto;
+	background-color: white;
 }
 nav ul {
 	list-style: none;
