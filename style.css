@@ -32,6 +32,8 @@ nav ul li {
 nav ul li a {
 	text-decoration: none;
 	text-transform: uppercase;
+	font-weight: bold;
+	color: black;
 }
 section {
 	width: 90%;
