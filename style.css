@@ -69,8 +69,6 @@ section aside ul li {
 }
 section aside ul li a {
 	text-decoration: none;
-	text-transform: uppercase;
-	font-weight: bold;
 	color: black;
 }
 footer {
